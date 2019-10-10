@@ -1,0 +1,6 @@
+* [Denotational design does not work](https://ro-che.info/articles/2014-12-31-denotational-design-does-not-work)
+* [Denotational design with type class morphisms](http://conal.net/papers/type-class-morphisms/type-class-morphisms-long.pdf)
+* [LambdaJam 2014/2015 on denotational design](https://github.com/conal/talk-2014-lambdajam-denotational-design)
+* [Simply Efficient FRP](http://conal.net/papers/simply-reactive/)
+* [Denotational Design BayHac](https://github.com/conal/talk-2014-bayhac-denotational-design)
+* [Semantic Design - Luke Palmer](https://lukepalmer.wordpress.com/2008/07/18/semantic-design/)
