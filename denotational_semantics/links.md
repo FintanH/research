@@ -1,0 +1,5 @@
+* ["The Lost Art of Denotational Semantics"](https://www.youtube.com/watch?v=pQyH0p-XJzE)
+* [Denotational Semantics Wikipedia](https://en.wikipedia.org/wiki/Denotational_semantics)
+* [Denotational Semantics by David A. Schmidt](https://www.cs.colorado.edu/~bec/courses/csci5535/reading/densem.pdf)
+* [Denotational Semantics Haskell Wiki](https://en.wikibooks.org/wiki/Haskell/Denotational_semantics)
+* [Lectures by Marcelo Fiore](https://www.cl.cam.ac.uk/teaching/1011/DenotSem/)
