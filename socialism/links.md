@@ -1,0 +1,5 @@
+* [The Principles of Communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm#21)
+* [Very Short Introduction: Communism](https://global.oup.com/academic/product/communism-a-very-short-introduction-9780199551545?prevNumResPerPage=20&prevSortField=1&subjectcode2=1797963%7CAHU00830&subjectcode1=1793239%7CAHU00010&type=listing&start=20&lang=en&cc=us)
+* [Very Short Introduction: Feminsim](https://global.oup.com/academic/product/communism-a-very-short-introduction-9780199551545?prevNumResPerPage=20&prevSortField=1&subjectcode2=1797963%7CAHU00830&subjectcode1=1793239%7CAHU00010&type=listing&start=20&lang=en&cc=us)
+* [Very Short Introduction: Modern Ireland](https://global.oup.com/academic/product/modern-ireland-a-very-short-introduction-9780192801678?prevNumResPerPage=20&prevSortField=1&subjectcode2=1797963%7CAHU00830&subjectcode1=1793239%7CAHU00010&type=listing&start=60&lang=en&cc=us)
+* [Captialist Realism (Kevin has this book)](https://www.goodreads.com/book/show/6763725-capitalist-realism)
